@@ -1,0 +1,2 @@
+Output File: D:\Project\dirsearch\reports\220.249.52.133\_20-09-22_01-23-09.txt
+python ./dirsearch.py -u http://220.249.52.133:31000/ -e *
